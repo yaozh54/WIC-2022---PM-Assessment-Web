@@ -18,7 +18,7 @@ h4 {
   margin-bottom: 30px;
 }
 .jumbotron {
-  background-color: #006400;
+  background-color: #387738;
   color: #fff;
   padding: 100px 25px;
   font-family: Montserrat, sans-serif;
@@ -159,7 +159,7 @@ footer .glyphicon {
 }
 
 #myimg:hover {
-  box-shadow: 0 0 2px 1px red;
+  box-shadow: 0 0 2px 1px rgb(255, 0, 0);
 }
 #myimg2 {
   border: 1px solid #ddd;
